@@ -1,4 +1,4 @@
-import { download } from "../assets";
+import download from "../assets/download.png";
 import { downloadImage } from "../utils";
 
 type Props = {
